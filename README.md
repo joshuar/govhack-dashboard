@@ -4,7 +4,7 @@ This repo contains instructions, configuration files and scripts that
 will allow you to create a dashboard of the GovHack competition data
 for teams, projects, regions, prizes etc.
 
-[](Screenshot1.png)
+![The Dashboard](Screenshot1.png)
 
 # Requirements
 
