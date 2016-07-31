@@ -213,6 +213,7 @@ And we print a dot for each event we index with the [stdout](https://www.elastic
   indivudal record. So ideally you'd either use some kind of nested
   structure for these fields or index a particular project and each
   dataset it is using as a separate document.
+* There are probably many more clean-ups that can be done here. For example, people might use a department acronym instead of the department name for the dataset provider. Both of these count as different fields when really they should be the same.  
 
 # License
 
