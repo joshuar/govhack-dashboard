@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "GovHack",
+    "_type": "dashboard",
+    "_source": {
+      "title": "GovHack",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"col\":1,\"id\":\"GovHack:-Metrics\",\"panelIndex\":1,\"row\":3,\"size_x\":8,\"size_y\":2,\"type\":\"visualization\"},{\"col\":5,\"id\":\"GovHack:-Project-Status\",\"panelIndex\":3,\"row\":1,\"size_x\":4,\"size_y\":2,\"type\":\"visualization\"},{\"col\":9,\"id\":\"GovHack:-Regions-and-Local-Events\",\"panelIndex\":6,\"row\":5,\"size_x\":4,\"size_y\":5,\"type\":\"visualization\"},{\"col\":1,\"id\":\"GovHack:-About\",\"panelIndex\":7,\"row\":1,\"size_x\":4,\"size_y\":2,\"type\":\"visualization\"},{\"col\":9,\"id\":\"GovHack:-Popular-Prizes\",\"panelIndex\":8,\"row\":1,\"size_x\":4,\"size_y\":4,\"type\":\"visualization\"},{\"id\":\"GovHack:-Datasets-by-Project-Count\",\"type\":\"visualization\",\"panelIndex\":9,\"size_x\":4,\"size_y\":5,\"col\":1,\"row\":5},{\"id\":\"GovHack:-Dataset-Providers-Used-By-Projects\",\"type\":\"visualization\",\"panelIndex\":10,\"size_x\":4,\"size_y\":5,\"col\":5,\"row\":5}]",
+      "optionsJSON": "{\"darkTheme\":false}",
+      "uiStateJSON": "{}",
+      "version": 1,
+      "timeRestore": true,
+      "timeTo": "now",
+      "timeFrom": "now-15m",
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"filter\":[{\"query\":{\"query_string\":{\"analyze_wildcard\":true,\"query\":\"*\"}}}]}"
+      }
+    }
+  }
+]
